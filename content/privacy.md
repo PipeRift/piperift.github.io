@@ -14,7 +14,7 @@ Piperift may use **[Epic Online Services](https://dev.epicgames.com/services)** 
 We are committed to protect this information. Piperift will never share it with third parties, with the exception of possible statistical reports created from anonymous analytics.
 
 ## Contact
-If you have questions of concerns about Piperift's privacy, you can contact us **[here](/contact)**.
+If you have questions or concerns about Piperift's privacy, you can contact us **[here](/contact)**.
 
 &nbsp;
 

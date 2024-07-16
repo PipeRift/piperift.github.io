@@ -1,7 +1,4 @@
-node_modules
 package-lock.json
 public
 resources
-.netlify
 .hugo_build.lock
-package-lock.json

@@ -1,0 +1,39 @@
+baseurl = "http://www.piperift.com"
+title = "Piperift"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Piperift"
+  info = ""
+  description = "Piperift's personal website"
+  keywords = "GameDev,Games,Programming,Code,UnrealEngine,Rift,Antier"
+  avatarurl = "/img/logo_title_light_l.png"
+
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/icon-32x32.png"
+  favicon_16 = "/img/icon-16x16.png"
+
+  since = 2015
+
+  enableTwemoji = true
+
+  colorScheme = "dark"
+  hidecolorschemetoggle = true
+
+  # customCSS = ["css/custom.css"]
+  customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/Piperift/"

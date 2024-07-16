@@ -14,7 +14,7 @@ style = "github-dark"
   info = ""
   description = "Piperift's personal website"
   keywords = "GameDev,Games,Programming,Code,UnrealEngine,Rift,Antier"
-  avatarurl = "/img/logo_title_light_l.png"
+  avatarurl = "/img/logo_title_light_xl.png"
 
   faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/icon-32x32.png"

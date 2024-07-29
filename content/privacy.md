@@ -2,6 +2,7 @@
 # Privacy
 _Last updated on July 16, 2024._
 
+
 ## Websites
 **piperift.com** and **riftlang.com** do not track your data. No third parties will track you there.
 
@@ -15,6 +16,9 @@ We are committed to protect this information. Piperift will never share it with 
 
 ## Contact
 If you have questions or concerns about Piperift's privacy, you can contact us **[here](/contact)**.
+
+## About Piperift
+To learn more about Piperift, see **[About](/about)**.
 
 &nbsp;
 
